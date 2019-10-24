@@ -1,0 +1,180 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato" sans-serif;
+  line-height: 1.6;
+}
+
+#showcase {
+  background-image: url('../img/image3.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+ }
+
+#showcase h1{
+  font-family: "Lato";
+  font-size: 4rem;  
+  color: #D6A948;
+  font-weight: 800;
+  padding-bottom: 0;
+  margin: 0 auto;
+  line-height: 1.2;
+  text-shadow: 2px 2px 0 #000;
+  }
+
+#showcase h2{
+  margin: 0;
+  padding: 0;
+  font-family: "Lato";
+  color: #D6A948;
+  font-size: 2.5rem;
+  text-shadow: 2px 2px 0 #000;
+}
+
+#section-b{ 
+  background: #f4f4f4;
+  text-align: center;
+  color: black;
+}
+
+#section-c {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 0;
+}
+
+.title {
+  font-family: "Lato";  
+  font-size: 1.5em;
+  color: #283044; 
+  }
+
+#section-c .box1 {
+  font-family: "Lato";
+  background: #8B887C;
+  padding: .5em;
+  color: #283044; 
+  font-size: 1.1em;  
+  font-weight: 600;
+  text-align: center;
+  border: 1px solid black;
+  flex: 1;
+} 
+
+#section-c .box2{
+  font-family: "Lato";
+  background: #8B887C;
+  padding: .5em;
+  color: #283044; 
+  font-size: 1.75em;  
+  border: 1px solid black;
+  flex: 1;
+  text-align: center;
+  font-weight: 600;
+}
+
+#language2 {
+white-space: pre;
+font-size: 1.25em;
+}
+
+#projects {
+  font-family: "Lato";
+  font-weight: bold;
+  text-align: center;
+  font-size: 2.25rem;
+  padding-bottom: 0;
+  margin:-bottom: 0;
+}
+
+.image  {
+ max-width: 275px;
+ max-height: auto;
+ padding-bottom: 0;
+}
+
+
+#section-d {
+  padding-top: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  }
+
+#section-e {
+  padding-top: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  }
+
+  .on-hover {
+    margin: 2rem;
+    font-family: "Lato";
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+    line-height: 0.1rem;
+  }
+
+  #section-f {    
+    padding-top: 1rem;
+    padding-bottom: 0rem;
+    font-family: "Hepta Slab";
+    font-size: 1.1rem;
+    text-align: center;
+    background: black;
+    color: #f4f4f4;
+    line-height: .5rem;
+  }
+
+  #section-g {    
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    font-family: "Hepta Slab";
+    font-size: 1rem;
+    text-align: center;
+    background: black;
+    color: #f4f4f4;
+    line-height: .5rem;
+  }
+
+  #section-h {    
+    padding-top: 0.85rem;
+    padding-bottom: 3rem;
+    font-family: "Hepta Slab";
+    font-size: 1rem;
+    text-align: center;
+    background: black;
+    color: #f4f4f4;
+    line-height: .5rem;
+  }
+
+  #email {
+    color: white;
+  }
+
+  #github {
+    color: white;
+  }
+
+  #linkedin {
+    color: white;
+  }
+
+
+
+
+
+
+
+
+
